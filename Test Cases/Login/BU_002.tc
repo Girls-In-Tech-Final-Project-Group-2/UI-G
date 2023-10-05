@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BU_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8b00b018-1b82-47dd-a269-e9975179cbd6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c63319ae-5090-40f8-b47e-b0ab07835589</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f6691a33-112a-4b5f-8cbb-ed2d531ede9f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'lala@gmail.com'</defaultValue>
+      <description></description>
+      <id>c63319ae-5090-40f8-b47e-b0ab07835589</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'lala'</defaultValue>
+      <description></description>
+      <id>f6691a33-112a-4b5f-8cbb-ed2d531ede9f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
