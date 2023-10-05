@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BU_008</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3f2755f6-95f2-4b1d-9f2f-54f199e87382</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>de9075f6-9280-417a-9670-608c8fabf467</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'user12345'</defaultValue>
+      <description></description>
+      <id>de9075f6-9280-417a-9670-608c8fabf467</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>
