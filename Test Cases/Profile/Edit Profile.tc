@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Edit Profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cbc99940-feee-4f0b-bd08-09655e90e787</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0e14e8f7-9ed6-43f8-83ff-96d5e7b202ab</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cdb028c7-6401-4bf1-b636-0d52cb6208df</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'lala@gmail.com'</defaultValue>
+      <description></description>
+      <id>0e14e8f7-9ed6-43f8-83ff-96d5e7b202ab</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'lala123'</defaultValue>
+      <description></description>
+      <id>cdb028c7-6401-4bf1-b636-0d52cb6208df</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

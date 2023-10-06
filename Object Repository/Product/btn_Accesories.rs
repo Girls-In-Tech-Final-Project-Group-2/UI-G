@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Accesories</name>
+   <tag></tag>
+   <elementGuidId>284b299b-0381-42d7-b138-421ffbc3b2ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Accesories')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>03d1abee-e45f-48f6-92c8-235fad972b41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accesories</value>
+      <webElementGuid>3990968a-5aff-4077-b4c9-7e8d9ccec545</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-product[1]/section[@class=&quot;sectionJumper section&quot;]/div[@class=&quot;section-jumper section-jumper- section-jumper--light section-jumper--sticky section-jumper--initialized&quot;]/div[@class=&quot;section-jumper__main&quot;]/ul[1]/li[5]/a[1]</value>
+      <webElementGuid>02998f97-24a8-48b0-a8ca-f4313d0e2883</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Accesories')]</value>
+      <webElementGuid>61c7cbf6-ed7d-4830-9dc4-e7c6a260fcdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Earbuds'])[1]/following::a[1]</value>
+      <webElementGuid>75f93837-8998-40f9-89da-0735a73bb0fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Earphones'])[1]/following::a[2]</value>
+      <webElementGuid>49bbe60e-f29a-4e3d-94fd-9dc485faac48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accesories Products'])[1]/preceding::a[1]</value>
+      <webElementGuid>c2c77c6d-d125-476d-9684-b19c822099b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Casetify 4.1'])[1]/preceding::a[1]</value>
+      <webElementGuid>d088e4ff-e266-48f0-9dc4-386b08dc5c3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Accesories']/parent::*</value>
+      <webElementGuid>020eb4b0-1c11-4cde-9412-636eed32a9d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>07ff7665-8f89-4ed4-bf66-4c9464ccb3e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Accesories' or . = 'Accesories')]</value>
+      <webElementGuid>07e9fdcb-753a-4ebb-8408-30255b4540ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
